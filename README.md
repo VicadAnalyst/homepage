@@ -9,7 +9,8 @@ ___
 # Learning Logs
 <details>
 <summary> Classic ML handbooks </summary> <br>
-[lin reg](LinearRegression_Handbook.ipynb)
+[Linear Regression](https://github.com/VicadAnalyst/homepage/blob/4d03b30f2e29ca785bbe2788bcc47da6ebb74155/classic_ml_handbooks/LinearRegression_Handbook.ipynb)
+<img src="files/img/linear_regression_img.png"/>
 </details>
 
-[lin reg](https://github.com/VicadAnalyst/homepage/blob/4d03b30f2e29ca785bbe2788bcc47da6ebb74155/classic_ml_handbooks/LinearRegression_Handbook.ipynb)
+
