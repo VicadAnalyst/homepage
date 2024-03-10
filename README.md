@@ -9,5 +9,5 @@ ___
 # Learning Logs
 <details>
 <summary> Classic ML handbooks </summary> <br>
-This is how you dropdown.
+[lin reg](LinearRegression_Handbook.ipynb)
 </details>
