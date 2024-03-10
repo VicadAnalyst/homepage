@@ -8,8 +8,8 @@ ___
 
 # Classic ML handbooks
 
-[Linear Regression](https://github.com/VicadAnalyst/homepage/blob/4d03b30f2e29ca785bbe2788bcc47da6ebb74155/classic_ml_handbooks/LinearRegression_Handbook.ipynb) <br>
-<img src="files/img/linear_regression_img2.png?raw=true"/>
+[Linear Regression](https://github.com/VicadAnalyst/homepage/blob/4d03b30f2e29ca785bbe2788bcc47da6ebb74155/classic_ml_handbooks/LinearRegression_Handbook.ipynb) <p>
+<img src="files/img/linear_regression_img3.png?raw=true"/>
 
 
 
