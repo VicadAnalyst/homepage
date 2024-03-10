@@ -12,4 +12,4 @@ ___
 [lin reg](LinearRegression_Handbook.ipynb)
 </details>
 
-https://github.com/VicadAnalyst/homepage/blob/4d03b30f2e29ca785bbe2788bcc47da6ebb74155/classic_ml_handbooks/LinearRegression_Handbook.ipynb
+[lin reg](https://github.com/VicadAnalyst/homepage/blob/4d03b30f2e29ca785bbe2788bcc47da6ebb74155/classic_ml_handbooks/LinearRegression_Handbook.ipynb)
