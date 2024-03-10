@@ -6,11 +6,10 @@ I really like the idea of learning in public, which you can read more about [her
 
 ___
 
-# Learning Logs
-<details>
-<summary> Classic ML handbooks </summary> <br>
+# Classic ML handbooks
+
 [Linear Regression](https://github.com/VicadAnalyst/homepage/blob/4d03b30f2e29ca785bbe2788bcc47da6ebb74155/classic_ml_handbooks/LinearRegression_Handbook.ipynb)
-<img src="files/img/linear_regression_img.png"/>
-</details>
+<img src="files/img/linear_regression_img.png?raw=true"/>
+
 
 
