@@ -9,7 +9,7 @@ ___
 # Classic ML handbooks
 
 [Linear Regression | Through Normal Equation and Gradient Descent](classic_ml_handbooks/LinearRegression_Handbook.html)
-
+<br><br>
 <img src="files/img/linear_regression_img4.png"/>
 
 
