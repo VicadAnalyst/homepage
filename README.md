@@ -1,7 +1,8 @@
-Welcome!
+Welcome to Vicad Analyst!
 
-Here I'm going to publish my pet projects and other materials. I work in the data field, so most things will be related to **DA,  DS** and **ML**. <br>
-I really like the idea of learning in public, which you can read more about [here](https://www.swyx.io/learn-in-public), so I'll also publish what I've learned along my journey. <br>
+I'm a data enthusiast and a curious learner, currently working in the DA field. <br>
+You can expect to see here my pet projects, experiments, analysis of take-home assignments and some learning materials that I create for myself while learning new things. <br>
+I really like the idea of learning in public, which you can read more about [here](https://www.swyx.io/learn-in-public), so if you have any ideas or want to cooperate, feel free to DM me in Telegram. <p>
 
 ___
 
