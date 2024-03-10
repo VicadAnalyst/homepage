@@ -6,7 +6,7 @@ I really like the idea of learning in public, which you can read more about [her
 
 ___
 
-# Guides/Tutorials/Other educational materials
+# Educational materials
 <details>
 <summary> Classic ML handbooks </summary> <br>
 This is how you dropdown.
