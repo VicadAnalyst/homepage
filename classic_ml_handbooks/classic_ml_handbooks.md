@@ -4,13 +4,10 @@ Keep in mind that the handbooks were created for educational purposes, and they 
 
 ---
 
-[Linear Regression | Normal equation and Gradient descent](classic_ml_handbooks/LinearRegression_Handbook.html)
-
-
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Notebook</b></td>
-    <td><b style="font-size:30px">Case study example</b></td>
+    <td><b style="font-size:16px">Notebook</b></td>
+    <td><b style="font-size:16px">Case study example</b></td>
  </tr>
  <tr>
     <td>
