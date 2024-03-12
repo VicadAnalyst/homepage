@@ -6,12 +6,12 @@ Keep in mind that the handbooks were created for educational purposes, and they 
 
 <table border="0">
  <tr>
-    <td><b style="font-size:16px">Notebook</b></td>
-    <td><b style="font-size:16px">Case study example</b></td>
+    <td><b style="font-size:14px">Notebook</b></td>
+    <td><b style="font-size:14px">Example</b></td>
  </tr>
  <tr>
     <td>
-     <p><a href='classic_ml_handbooks/LinearRegression_Handbook.html' title="title">Linear Regression | Normal equation and Gradient descent</a></p>
+     <p><a href='https://github.com/VicadAnalyst/homepage/blob/5a74245089b4c48dc04105d4a6754388eca27e1b/classic_ml_handbooks/LinearRegression_Handbook.html'>Linear Regression | Normal equation and Gradient descent</a></p>
     </td>
     <td>Lorem ipsum ...</td>
  </tr>
