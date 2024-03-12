@@ -6,5 +6,5 @@ Keep in mind that the handbooks were created for educational purposes, and they 
 
 | Algorithm                                                                                                       | Example with data |
 |:----------------------------------------------------------------------------------------------------------------|:------------------|
-| [Linear Regression - Normal equation and Gradient descent](/LinearRegression_Handbook.html) | TO DO             |
+| [Linear Regression - Normal equation and Gradient descent](./LinearRegression_Handbook.html) | TO DO             |
 
